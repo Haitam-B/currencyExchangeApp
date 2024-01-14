@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">echange</string>
+    <string-array name="currency_from_options">
+        <item>MAD</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>CHF</item>
+        <item>NOK</item>
+        <item>RUB</item>
+        <item>TRY</item>
+        <item>GBP</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>MXN</item>
+        <item>JOD</item>
+        <item>QAR</item>
+        <item>NOK</item>
+        <item>SAR</item>
+        <item>DZD</item>
+        <item>EGP</item>
+        <item>TND</item>
+    </string-array>
+    <string-array name="currency_to_options">
+        <item>USD</item>
+        <item>MAD</item>
+        <item>EUR</item>
+        <item>CHF</item>
+        <item>NOK</item>
+        <item>RUB</item>
+        <item>TRY</item>
+        <item>GBP</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>MXN</item>
+        <item>JOD</item>
+        <item>QAR</item>
+        <item>NOK</item>
+        <item>SAR</item>
+        <item>DZD</item>
+        <item>EGP</item>
+        <item>TND</item>
+    </string-array>
+</resources>
